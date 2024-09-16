@@ -173,8 +173,8 @@ java_course = Course(name="Java Programming", duration="4 months", fee="$600")
 aws_course = Course(name="AWS Certified Solutions Architect", duration="6 months", fee="$800")
 
 # Create student instances
-student1 = Student(firstname="John", lastname="Doe", email="john.doe@example.com", mobile_no="1234567890", age=21, qualification="bsc")
-student2 = Student(firstname="Jane", lastname="Smith", email="jane.smith@example.com", mobile_no="0987654321", age=22, qualification="bsc")
+student1 = Student(firstname="Saurav", lastname="Gautam", email="sauravgautam@example.com", mobile_no="1234567890", age=21, qualification="bsc")
+student2 = Student(firstname="Nikita", lastname="Awalkar", email="nikita@example.com", mobile_no="0987654321", age=22, qualification="btch")
 
 # Manage enrollments
 manager = EnrollmentManager()
